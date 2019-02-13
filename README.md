@@ -1,2 +1,2 @@
 # get_next_line
-Purpose: read all the lines within a file.
+Purpose: create a function that will read all the lines within a file.
